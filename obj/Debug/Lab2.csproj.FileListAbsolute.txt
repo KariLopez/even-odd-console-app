@@ -1,0 +1,7 @@
+c:\users\karina lopez\source\repos\Lab2\Lab2\bin\Debug\Lab2.exe.config
+c:\users\karina lopez\source\repos\Lab2\Lab2\bin\Debug\Lab2.exe
+c:\users\karina lopez\source\repos\Lab2\Lab2\bin\Debug\Lab2.pdb
+c:\users\karina lopez\source\repos\Lab2\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+c:\users\karina lopez\source\repos\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+c:\users\karina lopez\source\repos\Lab2\Lab2\obj\Debug\Lab2.exe
+c:\users\karina lopez\source\repos\Lab2\Lab2\obj\Debug\Lab2.pdb
